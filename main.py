@@ -1,7 +1,6 @@
 import streamlit as st
 
-# Importing the pages
-from pages import home, data, model, about
+
 
 #Title
 st.title("Taller de Informatica y Matematicas")
