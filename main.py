@@ -16,6 +16,7 @@ st.markdown("""
 </style>
 """ % style, unsafe_allow_html=True)
 
+# Add logo
 st.markdown("""
-<img src="https://imgur.com/hUoBM5a" style="width: 100px; height: 100px;" />
-""", unsafe_allow_html=True)
+<img src="prepa9logo.png" />
+""")
